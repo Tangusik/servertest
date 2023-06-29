@@ -1,0 +1,3 @@
+https://fixmypc.ru/post/sozdanie-i-zapusk-konteinera-docker-s-django-postgressql-gunicorn-i-nginx/
+
+https://fixmypc.ru/post/ustanovka-i-nastroika-django-3-s-nginx-postgresql-gunicorn-wsgi-na-ubuntu-20/
